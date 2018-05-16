@@ -1,0 +1,1517 @@
+fileFormatVersion: 2
+guid: b9a82abc5a90af14aa7c3a6a20c2801e
+timeCreated: 1524997549
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Simon_0
+    21300002: Simon_1
+    21300004: Simon_2
+    21300006: Simon_3
+    21300008: Simon_4
+    21300010: Simon_5
+    21300012: Simon_6
+    21300014: Simon_7
+    21300016: Simon_8
+    21300018: Simon_9
+    21300020: Simon_10
+    21300022: Simon_11
+    21300024: Simon_12
+    21300026: Simon_13
+    21300028: Simon_14
+    21300030: Simon_15
+    21300032: Simon_16
+    21300034: Simon_17
+    21300036: Simon_18
+    21300038: Simon_19
+    21300040: Simon_20
+    21300042: Simon_21
+    21300044: Simon_22
+    21300046: Simon_23
+    21300048: Simon_24
+    21300050: Simon_25
+    21300052: Simon_26
+    21300054: Simon_27
+    21300056: Simon_28
+    21300058: Simon_29
+    21300060: Simon_30
+    21300062: Simon_31
+    21300064: Simon_32
+    21300066: Simon_33
+    21300068: Simon_34
+    21300070: Simon_35
+    21300072: Simon_36
+    21300074: Simon_37
+    21300076: Simon_38
+    21300078: Simon_39
+    21300080: Simon_40
+    21300082: Simon_41
+    21300084: Simon_42
+    21300086: Simon_43
+    21300088: Simon_44
+    21300090: Simon_45
+    21300092: Simon_46
+    21300094: Simon_47
+    21300096: Simon_48
+    21300098: Simon_49
+    21300100: Simon_50
+    21300102: Simon_51
+    21300104: Simon_52
+    21300106: Simon_53
+    21300108: Simon_54
+    21300110: Simon_55
+    21300112: Simon_56
+    21300114: Simon_57
+    21300116: Simon_58
+    21300118: Simon_59
+    21300120: Simon_60
+    21300122: Simon_61
+    21300124: Simon_62
+    21300126: Simon_63
+    21300128: Simon_64
+    21300130: Simon_65
+    21300132: Simon_66
+    21300134: Simon_67
+    21300136: Simon_68
+    21300138: Simon_69
+    21300140: Simon_70
+    21300142: Simon_71
+    21300144: Simon_72
+    21300146: Simon_73
+    21300148: Simon_74
+    21300150: Simon_75
+    21300152: Simon_76
+    21300154: Simon_77
+    21300156: Simon_78
+    21300158: Simon_79
+    21300160: Simon_80
+    21300162: Simon_81
+    21300164: Simon_82
+    21300166: Simon_83
+    21300168: Simon_84
+    21300170: Simon_85
+    21300172: Simon_86
+    21300174: Simon_87
+    21300176: Simon_88
+    21300178: Simon_89
+    21300180: Simon_90
+    21300182: Simon_91
+    21300184: Simon_92
+    21300186: Simon_93
+    21300188: Simon_94
+    21300190: Simon_95
+    21300192: Simon_96
+    21300194: Simon_97
+    21300196: Simon_98
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Simon_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 646
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 646
+        width: 12
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 646
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 646
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 646
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 646
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 646
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 646
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 646
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 603
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 603
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 603
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 602
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 602
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 602
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 562
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 563
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 564
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 562
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 562
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 563
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 523
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 523
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 524
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 523
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 522
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 523
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 480
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 480
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 481
+        width: 44
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_30
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 480
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_31
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 479
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 480
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 440
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 440
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 441
+        width: 44
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 440
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 439
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_38
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 440
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 400
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 400
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 401
+        width: 44
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_43
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 400
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 399
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_46
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 400
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 360
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 360
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 361
+        width: 44
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 360
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_51
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 359
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_52
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 360
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 323
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 327
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 326
+        width: 28
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_56
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 320
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 320
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 320
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_59
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 287
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_60
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 291
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 290
+        width: 28
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_62
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 281
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_63
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 281
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_64
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 282
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_65
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 248
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 252
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 252
+        width: 44
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_68
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 242
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_69
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 241
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 242
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 208
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 212
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_73
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 212
+        width: 44
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 199
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_75
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 198
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_76
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 199
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 168
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 172
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_80
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 172
+        width: 44
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_81
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 159
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_82
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 158
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_83
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 159
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_84
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 128
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 132
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_86
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 132
+        width: 44
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_87
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 119
+        width: 8
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_88
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 118
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_90
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 119
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_91
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 82
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 82
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 82
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_94
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 82
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_95
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 79
+        width: 7
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_96
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 78
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_97
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 79
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 416
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
